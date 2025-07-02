@@ -2,22 +2,29 @@
 
 A simple **desktop application** built using **Java Swing** to manage salon operational data, including stock management and service bookings.
 
-_**Menu login**_
+### 🟢 **Login Menu**
+
 ![login](img/tapbo%20login.png)
 
-_**Menu Home**_
+### 🏠 **Home Menu**
+
 ![home](img/tapbo%20home.png)
 
-_**Menu Stok**_
-![stok](img/tapbo%20stok.png)
-_**Menu Boking**_
-![stok](img/tapbo%20boking.png)
-_**Menu Data Petugas**_
-![stok](img/tapbo%20data%20petugas.png)
-_**Menu Transaksi**_
-![stok](img/tapbo%20transaksi.png)
+### 📦 **Stock Menu**
 
----
+![stok](img/tapbo%20stok.png)
+
+### 📅 **Booking Menu**
+
+![boking](img/tapbo%20boking.png)
+
+### 👤 **Staff Data Menu**
+
+![data petugas](img/tapbo%20data%20petugas.png)
+
+### 💳 **Transaction Menu**
+
+## ![transaksi](img/tapbo%20transaksi.png)
 
 ## 🚀 Main Features
 
