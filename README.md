@@ -4,8 +4,10 @@ A simple **desktop application** built using **Java Swing** to manage salon oper
 
 _**Menu login**_
 ![login](img/tapbo%20login.png)
+
 _**Menu Home**_
 ![home](img/tapbo%20home.png)
+
 _**Menu Stok**_
 ![stok](img/tapbo%20stok.png)
 _**Menu Boking**_
